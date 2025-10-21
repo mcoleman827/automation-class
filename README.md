@@ -1,2 +1,3 @@
 # MyFirstRepo
-Practice for NA
+
+Practice repo for a network automation class.  
